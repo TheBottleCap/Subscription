@@ -1,0 +1,13 @@
+{
+    "name":"asdad",
+    "email":"abcd6@gmail.com",
+    "phone":12312414,
+    "work":"patanhi",
+    "password":"huehue",
+    "cpassword":"huehue"
+}
+
+{
+    "email":"aadaud",
+    "password":"asdasd"
+}
